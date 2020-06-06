@@ -8,4 +8,4 @@ The user can create coding challenges in shared libraries, load them run time an
     boost
 
 ## Screenshot
-![Image of CodingChallenge](https://github.com/R0leeX/Snake-SDL-C/blob/master/codingChallenge.PNG)
+![Image of CodingChallenge](https://github.com/R0leeX/Coding-challange-engine/blob/master/codingChallenge.PNG)
